@@ -2,7 +2,7 @@ package cn.wjt.testGit;
 
 public class testGit {
 	public static void main(String[] args) {
-		System.out.println("µÚÒ»´Î²âÊÔtestGitÉÏ´«£¡");
+		System.out.println("ç¬¬ä¸€æ¬¡ä¸Šä¼ åˆ°testGitï¼");
 	}
 
 }
